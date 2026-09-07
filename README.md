@@ -21,13 +21,21 @@
 
 ### :woman_technologist: About Me :
 I am a QA Automation Software AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from US.
-- :telescope: I’m working as a QA Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+🛠️ My Languages & Tools: **[Python](https://www.python.org/)**, **[JavaScript](JavaScript.com)**, **[HTML5](https://html.com/)**, **[SQL]()**, **[Markdown](https://www.markdownguide.org/)**,  **[SELENIUM WebDriver](https://www.selenium.dev/documentation/webdriver/)**, **[PyCharm](https://www.jetbrains.com/pycharm/)**, **[WebStorm](https://www.jetbrains.com/webstorm/)**, **[GitHub](https://github.com/)**, **[Jira](https://www.atlassian.com/software/jira)**.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+🛠️ Operating systems: **[Windows OS](https://www.microsoft.com/en-us/windows)**, **[MacOS](https://www.apple.com/macos/ventura/)**, **[iOS](https://www.apple.com/ios/ios-16/)**, **[Android](https://www.android.com/)**, **[Linux](https://www.linux.org/pages/download/)**.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+🛠️ Browsers: **[Safari](https://www.apple.com/safari/)**, **[Chrome](https://www.google.com/chrome/)**, **[Firefox](https://www.mozilla.org/en-US/)**, **[Edge](https://www.microsoft.com/en-us/edge?form=MM145U)**, **[Opera](https://www.opera.com/)**.
+
+
+🛠️ How to find me: **[LinkedIn Gregory Avetisyan](https://www.linkedin.com/in/gregory-avetisyan/)**.
+
+
+🛠️ Hobbies: **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)**, **[Adobe Illustrator](https://www.adobe.com/products/illustrator.html)**.
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/118332660/204910545-f01797ea-aef5-485d-b834-f9a82e14d9fd.svg)
+
 
 ---
 
