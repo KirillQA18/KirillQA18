@@ -60,6 +60,11 @@ I am a QA Automation Software AI Engineer <img src="https://media.giphy.com/medi
      alt="Selenium WebDriver"
      width="55"
      height="55"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+     title="JavaScript"
+     alt="JavaScript"
+     width="55"
+     height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub"  width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git"  width="55" height="55"/>&nbsp;
@@ -70,7 +75,6 @@ I am a QA Automation Software AI Engineer <img src="https://media.giphy.com/medi
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="Webstorm" alt="Webstorm" width="55"/>&nbsp;
   <img src="https://simpleicons.org/icons/json.svg" title="JSON" alt="JSON"  width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-512x512-q3igwln6.png" title="JS" alt="JS"  width="55" height="55"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374016/python.svg" title="Python" alt="Python" width="55" height="55"/>&nbsp;
   <img src="https://www.pngrepo.com/png/374111/512/swagger.png" title="Swagger" alt="Swager"  width="55" height="55"/>&nbsp;
   <img src="https://www.pngrepo.com/png/354202/512/postman-icon.png" title="Postman" alt="Postman"  width="55" height="55"/>&nbsp;
