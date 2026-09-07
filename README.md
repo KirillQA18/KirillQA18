@@ -8,7 +8,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=KirillQA18&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hey there,  I am a QA Automation AI Engineer
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
