@@ -29,7 +29,7 @@ I am a QA Automation Software AI Engineer <img src="https://media.giphy.com/medi
 🛠️ Browsers: **[Safari](https://www.apple.com/safari/)**, **[Chrome](https://www.google.com/chrome/)**, **[Firefox](https://www.mozilla.org/en-US/)**, **[Edge](https://www.microsoft.com/en-us/edge?form=MM145U)**, **[Opera](https://www.opera.com/)**.
 
 
-🛠️ How to find me: **[LinkedIn Gregory Avetisyan](https://www.linkedin.com/in/gregory-avetisyan/)**.
+🛠️ How to find me: **[LinkedIn Kirill Permiakov](https://www.linkedin.com/in/kirill-permiakov/)**.
 
 
 🛠️ Hobbies: **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)**, **[Adobe Illustrator](https://www.adobe.com/products/illustrator.html)**.
