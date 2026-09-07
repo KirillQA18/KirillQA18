@@ -85,6 +85,7 @@ I am a QA Automation Software AI Engineer <img src="https://media.giphy.com/medi
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KirillQA18&theme=dark&background=000000)](https://git.io/streak-stats)
+![Codewars](https://github.r2v.ch/codewars?user=llkirill12&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
 ---
 
