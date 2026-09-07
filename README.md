@@ -86,8 +86,14 @@ I am a QA Automation Software AI Engineer <img src="https://media.giphy.com/medi
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KirillQA18&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Codewars](https://github.r2v.ch/codewars?user=llkirill12&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
 ---
+
+<h2 align="center"> <pre> 🅹🆄🆂🆃 🅵🅾️🆁 🅵🆄🅽 🎉</pre></h2>
+<div align="center">
+<img src="https://i.ibb.co/0jKvgckV/s28zf8y4pea91.gif" width="200px"> 
+<img src="https://media.tenor.com/a-TsAtfszc8AAAAM/homer-any.gif" width="200px"> 
+<img src="https://i.makeagif.com/media/5-31-2018/xCL2g1.gif" width="220px">
+</div>
 
 <!--
 ### :writing_hand: Blog Posts :
